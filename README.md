@@ -3,11 +3,11 @@
 This is a simple ransomware written with python for learning purpose
 
 ### Features
-> ransomware : encrypt/decrypt using AES and RSA
-> backdoor : simple python reverse shell enabled by default
-> keylogger
+- Ransomware : encrypt/decrypt using AES and RSA
+- Backdoor : simple python reverse shell enabled by default
+- Keylogger
 
 
 ### What We Can Add
-> antivirus evasion
-> complete command and control server: we are using netcat now :( 
+- Antivirus evasion
+- Complete command and control server: we are using netcat now :( 
